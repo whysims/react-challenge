@@ -1,8 +1,8 @@
-# Challenge React.js ![alt text](https://pasteboard.co/byC31Sq5OMgz.png)
+# Challenge React.js ![](https://pasteboard.co/byC31Sq5OMgz.png)
 
 1. Create a branch into this public repository, with your name and lastname, and push it to the repo [https://github.com/sebasworkana/react-challenge.git](https://github.com/sebasworkana/react-challenge.git) . Complete challenge and create a PR so that we can review and approve
 2. The main challenge is that you create a Page with the following Style and format.
-![alt text](https://pasteboard.co/lPHmtpXOFtRm.png)
+![alt text](https://imageupload.io/jfSVositjWovwnf)
 
 1. You need to enumerate all Periodic table of the elements on CSS class and make use of it, matching words in First name and last name "Highlighting" them as in the image.
 2. First, install "react-redux", then use the useDispatch and useSelector react-redux hooks in the components.
