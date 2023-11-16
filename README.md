@@ -1,6 +1,6 @@
 # Challenge React.js ![](https://pasteboard.co/byC31Sq5OMgz.png)
 
-1. Create a branch into this public repository, with your name and lastname, and push it to the repo [https://github.com/sebasworkana/react-challenge.git](https://github.com/sebasworkana/react-challenge.git) . Complete challenge and create a PR so that we can review and approve
+1. 1. Fork this public repository ([https://github.com/sebasworkana/react-challenge.git](https://github.com/sebasworkana/react-challenge.git) ), and create a new branch with the name React-Challenge-"Name and Last Name", then push it to the created branch and give access to us to review the code.
 2. The main challenge is that you create a Page with the following Style and format.
 ![alt text](https://imageupload.io/en/jfSVositjWovwnf)
 
