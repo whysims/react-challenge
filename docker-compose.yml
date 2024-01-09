@@ -1,0 +1,12 @@
+version: '3.9'
+services:
+  breakify:
+    restart: unless-stopped
+    stdin_open: true
+    build:
+      context: ./
+      target: dev
+    volumes:
+      - ./:/code
+    ports:
+      - '5959'
