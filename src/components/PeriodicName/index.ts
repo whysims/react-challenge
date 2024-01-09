@@ -1,0 +1,1 @@
+export { PeriodicName } from "./PeriodicName";
