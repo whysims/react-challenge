@@ -1,17 +1,12 @@
-FROM node:16.18.0-alpine3.15 AS base
+FROM node
 
-RUN apk add --no-cache bash
-WORKDIR /code
+WORKDIR /app
 
-ADD package.json  ./
+COPY package.json .
+RUN npm i
 
+COPY . .
 
-# Development
-FROM base AS dev
-
-WORKDIR /code
-COPY ./ ./
-
-RUN npm install
+EXPOSE 5173
 
 CMD ["npm", "run", "dev"]
